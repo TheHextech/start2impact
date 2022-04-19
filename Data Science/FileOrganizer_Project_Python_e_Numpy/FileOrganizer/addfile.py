@@ -4,7 +4,7 @@ import csv
 import argparse
 
 
-"""cd <absolute file path of this executable>"""
+"""to make it work digit 'cd' and paste the absolute file path of this executable in the CMD."""
 
 
 
