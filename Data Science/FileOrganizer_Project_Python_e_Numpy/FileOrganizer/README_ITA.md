@@ -7,7 +7,7 @@ Non è **detto che tu conosca già tutti i costrutti e le librerie che dovrai us
 ---
 
 ## Step 1
-Inizia creando, in un notebook, uno script Python che_ iteri in ordine alfabetico sui file della cartella *files*_ e, a seconda del tipo (audio, documento, immagine), li sposti nella relativa sottocartella (qui sotto trovi un esempio). Se la sottocartella non esiste, il tuo script dovrà crearla automaticamente.
+Inizia creando, in un notebook, uno script Python che iteri in ordine alfabetico sui file della cartella *files* e, a seconda del tipo (audio, documento, immagine), li sposti nella relativa sottocartella (qui sotto trovi un esempio). Se la sottocartella non esiste, il tuo script dovrà crearla automaticamente.
 
 Durante il ciclo, lo script deve stampare le informazioni dei file: nome, tipo e dimensione in byte. Questo è l'output desiderato:
 

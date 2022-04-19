@@ -8,7 +8,7 @@ It is not **said that you already know all the constructs and libraries you will
 ---
 
 ## Step 1
-Start by creating, in a notebook, a Python script that iterates alphabetically on the files in the folder and, depending on the type (audio, document, image), move them to the relevant subfolder (see an example below). If the subfolder does not exist, your script will have to create it automatically.
+Start by creating, in a notebook, a Python script that iterates alphabetically on the files in the folder *files* and, depending on the type (audio, document, image), move them to the relevant subfolder (see an example below). If the subfolder does not exist, your script will have to create it automatically.
 
 During the cycle, the script must print the file information: name, type and size in bytes. This is the desired output:
 
