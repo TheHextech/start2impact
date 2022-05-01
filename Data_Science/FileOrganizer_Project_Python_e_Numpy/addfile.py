@@ -23,9 +23,12 @@ extensions = {
 }
 
 
-item = argparse.ArgumentParser(description="This executable can move a single file inside the 'files' folder, into its parental folder, updating information into 'recap.csv' file. You have to digit file name, format included, you wish to move (e.g. 'textfile.txt').")
+item = argparse.ArgumentParser(description="This executable can move a single file inside the 'files' folder,\
+into its parental folder, updating information into 'recap.csv' file.\
+You have to digit file name, format included, you wish to move (e.g. 'textfile.txt').")
 
-item.add_argument("target_file", type=str, choices=(files_list), help="Write name of the file to move, format included (e.g. 'audio.mp3').")
+item.add_argument("target_file", type=str, choices=(files_list), 
+                  help="Write name of the file to move, format included (e.g. 'audio.mp3').")
 
 args = item.parse_args()
 
