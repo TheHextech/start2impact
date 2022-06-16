@@ -1,4 +1,4 @@
-<center> <font size=+3.0> <b>  Data Manipulation and Visualization - Food project </b></font></center><br>
+# Data Manipulation and Visualization - Food project <br><br>
 
 <p align="center">
   <img src='./images_and_gifs/graphs.png'/>
