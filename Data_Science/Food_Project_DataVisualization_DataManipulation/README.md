@@ -4,41 +4,41 @@
   <img src='./images_and_gifs/graphs.png'/>
 </p>
 
-## Dati utlizzati e contesto
+## Data used and context
 
-Questo è il secondo progetto del percorso di Data Science di [start2impact](https://www.start2impact.it/percorsi/#data-science).
+This is the second project of the Data Science course of [start2impact](https://www.start2impact.it/percorsi/#data-science).
 
-Per lo svolgimento veniva suggerito l'utilizzo di due datasets, ai quali ho deciso di affiancarne anche un terzo. Tutti e tre i datasets sono disponibili su Kaggle:
+The use of two datases was suggested, to which I decided to support even a third. All three datases are available on Kaggle:
 
-- Il [primo](https://www.kaggle.com/datasets/dorbicycle/world-foodfeed-production), consultabile sul portale **[FAOSTAT](https://www.fao.org/faostat/en/#data)** della FAO (Food and Agriculture Organization of the United Nations), contiene i dati di produzione di molteplici cibi ('food') e mangimi ('feed') a livello mondiale, dal 1961 al 2013.
+- The [first](https://www.kaggle.com/datasets/dorbicycle/world-foodfeed-production), available on **[FAOSTAT](https://www.fao.org/faostat/en/#data)** portal of the FAO (Food and Agriculture Organization of the United Nations) website, contains data on the production of food and feed worldwide, from 1961 to 2013.
 
-- Il [secondo](https://www.kaggle.com/datasets/selfvivek/environment-impact-of-food-production), fornito da **[Our World in Data](https://ourworldindata.org/environmental-impacts-of-food)**, mostra principalmente i quantitativi di gas serra che sono emessi nei vari step della catena produttiva di 43 degli alimenti più prodotti nel mondo.
+- The [second](https://www.kaggle.com/datasets/selfvivek/environment-impact-of-food-production), provided by **[Our World in Data](https://ourworldindata.org/environmental-impacts-of-food)**, mainly shows the quantities of greenhouse gases that are emitted in the various steps of the production chain of 43 of the most produced foods in the world. 
 
-- Il [terzo](https://www.kaggle.com/datasets/sevgisarac/temperature-change/code?datasetId=1056827&sortBy=voteCount), fornito anch'esso da **FAOSTAT**, contiene dati sulla variazione media della temperatura superficiale per paese, con aggiornamenti annuali del periodo 1961–2019. I valori registrati in questo dataset sono intesi come anomalie, cioè variazioni di temperatura rispetto a una climatologia di base, corrispondente al periodo 1951-1980.
+- The [third](https://www.kaggle.com/datasets/sevgisarac/temperature-change/code?datasetId=1056827&sortBy=voteCount), also provided by **FAOSTAT**, contains data on the average variation in surface temperature by country, with annual updates for the period 1961-2019. The values recorded in this dataset are understood as anomalies, that is variations in temperature with respect to a basic climatology, corresponding to the period 1951-1980. 
 
-## Obiettivo e requisiti del progetto
+## Project objective and requirements
 
-> **Obiettivo**:  
-A partire dai dati inerenti alla produzione e distribuzione mondiale di alimenti e mangimi si analizzi l'impatto che questi hanno sull'ambiente.  
+> **Objective**:  
+Based on data on the worldwide production and distribution of food and feed, analyze the impact that these have on the environment.   
 
-Il lavoro va consegnato tenendo a mente che il notebook di Jupyter deve essere **simile ad una presentazione** da mostrare ad un ipotetico cliente: evitare progetti che siano troppo prolissi e ripetitivi nelle analisi. Scegliere *cosa mostrare e perché* mostrare quel concetto rispetto ad un altro è una delle capacità da sviluppare per questo progetto.
+The work must be delivered bearing in mind that the Jupyter notebook must be **similar to a presentation** to be shown to a hypothetical customer: avoid projects that are too verbose and repetitive in the analysis. Choosing *which concept to show and why, avoiding unnecessary information* is one of the skills to develop for this project.
 
-Il progetto deve di essere diviso in 6 fasi: 
+The project must be divided in 6 parts: 
 
-> - **Discovery (identificazione del problema e degli obiettivi)**
+> - **Discovery (problem identification and objectives)**
 > - **Data selection**
 > - **Data cleaning**
 > - **Data exploration**
 > - **Data transformation**
 > - **Data visualization**
 
-## Librerie utilizzate
+## Libraries used
 
 -  **numpy**
 -  **pandas**
 -  **plotly (express)**
 -  **fuzzywuzzy**
 
-## Note
+## Notes
 
-Per visualizzare correttamente i grafici consiglio di aprire il progetto su [nbviewer](https://nbviewer.org/github/TheHextech/start2impact/blob/master/Data_Science/Food_Project_DataVisualization_DataManipulation/EmanueleImmesiDataVis.ipynb#4.-Data-Exploration-&-Data-Visualization).
+To corretly display the graphs I recommend opening the project on [nbviewer](https://nbviewer.org/github/TheHextech/start2impact/blob/master/Data_Science/Food_Project_DataVisualization_DataManipulation/EmanueleImmesiDataVis.ipynb#4.-Data-Exploration-&-Data-Visualization).
