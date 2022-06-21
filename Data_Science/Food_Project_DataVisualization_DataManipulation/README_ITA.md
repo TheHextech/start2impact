@@ -42,3 +42,5 @@ Il progetto deve di essere diviso in 6 fasi: 
 ## Note
 
 Per visualizzare correttamente i grafici consiglio di aprire il progetto su [nbviewer](https://nbviewer.org/github/TheHextech/start2impact/blob/master/Data_Science/Food_Project_DataVisualization_DataManipulation/EmanueleImmesiDataVis.ipynb#4.-Data-Exploration-&-Data-Visualization).
+
+Corretto e superato il 21-06-2022 con punteggio 500/500.
