@@ -41,6 +41,6 @@ The project must be divided in 6 parts:
 
 ## Notes
 
-To corretly display the graphs I recommend opening the project on [nbviewer](https://nbviewer.org/github/TheHextech/start2impact/blob/master/Data_Science/Food_Project_DataVisualization_DataManipulation/EmanueleImmesiDataVis.ipynb#4.-Data-Exploration-&-Data-Visualization).
+To corretly display the graphs I recommend opening the project on [kaggle](https://www.kaggle.com/code/emanueleimmesi/food-project-data-manipulation-and-visualization), or on [nbviewer](https://nbviewer.org/github/TheHextech/start2impact/blob/master/Data_Science/Food_Project_DataVisualization_DataManipulation/EmanueleImmesiDataVis.ipynb#4.-Data-Exploration-&-Data-Visualization).
 
 Corrected on 2022-06-21. Exceeded with 500/500.
