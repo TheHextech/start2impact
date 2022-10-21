@@ -6,7 +6,7 @@
 
 ## Data used and context
 
-This is the second project of the Data Science course of [start2impact](https://www.start2impact.it/percorsi/#data-science).
+This is the second project of the Data Science master of [start2impact](https://www.start2impact.it/percorsi/#data-science).
 
 The use of two datases was suggested, to which I decided to support even a third. All three datases are available on Kaggle:
 
