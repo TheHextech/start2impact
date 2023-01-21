@@ -3,18 +3,13 @@ import shutil
 import csv
 import argparse
 
-
 """to make it work digit 'cd' and paste the absolute file path of this executable in the CMD."""
-
-
 
 CWD = os.getcwd()
 DESIRED_PATH = CWD + '/files'
 os.chdir(DESIRED_PATH)
 
-
 files_list = os.listdir()
-
 
 extensions = {
     "image": [".jpg", ".jpeg", ".png"],
